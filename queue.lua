@@ -35,4 +35,4 @@ function queue_class:dequeue()
     return val
 end
 
-return queue_class.new()
+return queue_class
